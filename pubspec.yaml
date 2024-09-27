@@ -1,0 +1,32 @@
+
+name: sintetica
+description: App de reservas de cancha
+
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  easy_localization: ^3.0.0
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.19.0
+  table_calendar: ^3.0.0
+ # Asegúrate de usar la última versión disponible
+  flutter_riverpod: ^2.0.0
+  provider: ^6.0.5
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.1.0
+  google_fonts: ^5.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
