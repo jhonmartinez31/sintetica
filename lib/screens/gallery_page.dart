@@ -14,4 +14,5 @@ class GalleryPage extends StatelessWidget {
       ),
     );
   }
+  //TALLER
 }
